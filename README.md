@@ -6,5 +6,5 @@ My configuration of [LazyVim](https://github.com/LazyVim/LazyVim).
 
 ### Colorscheme
 
-- [neovim-ayu](https://github.com/Shatur/neovim-ayu)
+- ~~[neovim-ayu](https://github.com/Shatur/neovim-ayu)~~
   - light theme

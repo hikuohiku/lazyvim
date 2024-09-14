@@ -3,4 +3,4 @@
 -- Add any additional options here
 
 vim.g.ayucolor = "light"
-vim.go.background = "light"
+-- vim.go.background = "light"

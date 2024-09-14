@@ -1,4 +1,10 @@
 # 💤 LazyVim
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+My configuration of [LazyVim](https://github.com/LazyVim/LazyVim).
+
+## Customizations
+
+### Colorscheme
+
+- [neovim-ayu](https://github.com/Shatur/neovim-ayu)
+  - light theme

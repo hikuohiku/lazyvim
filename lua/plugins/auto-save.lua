@@ -1,10 +1,10 @@
 return {
   {
     -- auto-save.nvim
-    "pocco81/auto-save.nvim",
+    "0x00-ketsu/autosave.nvim",
     enabled = true,
     opts = {
-      trigger_events = { "InsertLeave", "BufLeave", "FocusLost" },
+      events = { "InsertLeave", "TextChanged" },
     },
   }
 }

@@ -4,3 +4,4 @@
 
 -- vim.g.ayucolor = "light"
 -- vim.go.background = "light"
+vim.o.swapfile = false

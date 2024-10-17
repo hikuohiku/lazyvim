@@ -43,9 +43,12 @@ return {
     }
   },
   {
+    "Shatur/neovim-ayu"
+  },
+  {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "catppuccin",
+      colorscheme = "ayu",
     },
   },
 }

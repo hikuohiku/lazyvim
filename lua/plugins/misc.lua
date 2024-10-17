@@ -7,9 +7,9 @@ return {
         chunk = {
           enable = true,
           style = "#FFAA33",
-        }
+        },
       })
-    end
+    end,
   },
   { "sophacles/vim-processing" },
   {

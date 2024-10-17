@@ -39,11 +39,11 @@ return {
         treesitter = true,
         treesitter_context = true,
         which_key = true,
-      }
-    }
+      },
+    },
   },
   {
-    "Shatur/neovim-ayu"
+    "Shatur/neovim-ayu",
   },
   {
     "LazyVim/LazyVim",

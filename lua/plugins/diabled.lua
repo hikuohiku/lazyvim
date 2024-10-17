@@ -12,5 +12,6 @@ end
 local hostname = getHostname()
 return {
   -- diable mason due to nixos incompatibility
-  { "williamboman/mason.nvim", enabled = hostname ~= 'hikuo-desktop' },
+  -- { "williamboman/mason.nvim", enabled = hostname ~= 'hikuo-desktop' },
+  -- solved issue so commented out
 }

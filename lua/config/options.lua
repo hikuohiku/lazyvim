@@ -3,7 +3,7 @@
 -- Add any additional options here
 
 -- help ja
-vim.o.helplang = 'ja,en'
+vim.o.helplang = "ja,en"
 
 vim.g.ayucolor = "light"
 vim.cmd("highlight link LspInlayHint Comment")
